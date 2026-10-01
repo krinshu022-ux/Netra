@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="12" fill="#E2E8F0"/>
+  <!-- Target Grid overlay -->
+  <circle cx="60" cy="60" r="50" stroke="#CBD5E1" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <circle cx="60" cy="45" r="20" fill="#94A3B8"/>
+  <path d="M25 105 C25 80 40 72 60 72 C80 72 95 80 95 105 Z" fill="#94A3B8"/>
+  <!-- Crosshairs -->
+  <line x1="60" y1="10" x2="60" y2="25" stroke="#64748B" stroke-width="1.5"/>
+  <line x1="60" y1="95" x2="60" y2="110" stroke="#64748B" stroke-width="1.5"/>
+  <line x1="10" y1="60" x2="25" y2="60" stroke="#64748B" stroke-width="1.5"/>
+  <line x1="95" y1="60" x2="110" y2="60" stroke="#64748B" stroke-width="1.5"/>
+</svg>
